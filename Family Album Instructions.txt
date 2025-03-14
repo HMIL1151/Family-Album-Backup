@@ -1,0 +1,11 @@
+Put phone in developer mode and enable USB debugging
+
+Connect to laptop using data cable
+
+Open Vysor and start mirroring phone screen
+
+Mazimize height of the window and move to the far right of the screen
+
+Run PictureDownload.ahk macro
+
+To stop use CTRL + ESC
